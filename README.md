@@ -1,2 +1,2 @@
-# terning
-det er en terning
+# Text-RPG
+programmet bliver kørt i eclips
