@@ -1,0 +1,16 @@
+text-RPG
+Jonas, Peter
+Readme:
+Kunne godt have tænkt mig en mere udførlig gennemgang af hvordan man åbner jeres projekt og får det til at virke.
+
+Kommentering:
+Udmærket kommentering. Ingen kommentarer
+
+GIT:
+I har kun brugt GIT til at oploade filerne, ikke til at versionsstyre jeres arbejde. Det undrer mig at i har valgt at ligge jeres kode i en .rar fil. 
+
+Flowchart:
+Jeres flowcharts kan være lidt svære at læse Eksempel er SecondAction.jpg, jeg ved ikke hvad "svarmulighed 1", "svarmulighed 2", og "svarmulighed 3" referer til, og jeg kan ikke læse det ud af jeres flowchart.
+
+Overall:
+4, der er væsentlige mangler i GIT delen, og jeg er ikke imponeret over jeres flowcharts. Derfor har jeg valgt 4 som karakter. 
